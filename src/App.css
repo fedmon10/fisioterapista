@@ -1508,6 +1508,18 @@ html, body {
   .treatment-card p {
     font-size: 0.9rem;
   }
+
+  .treatment-overlay-text {
+    font-size: 1.44rem;
+  }
+
+  .service-item h3 {
+    font-size: 1.04rem;
+  }
+
+  .service-item p {
+    font-size: 0.8rem;
+  }
   
   .footer-logo-img {
     height: 78px;
