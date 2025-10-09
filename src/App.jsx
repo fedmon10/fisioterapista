@@ -195,7 +195,7 @@ Il dott. Monaco TOP!!!! Da anni gli "acciacchi" da ex sportiva ormai consolidati
                 </div>
                 <div className="experience-badge specialization">
                   <span className="badge-number">2</span>
-                  <span className="badge-text">Specializzazioni</span>
+                  <span className="badge-text">Titoli di studio</span>
                 </div>
               </div>
             </div>
